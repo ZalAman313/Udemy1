@@ -1,0 +1,18 @@
+{
+  "name": "proj1",
+  "version": "1.0.0",
+  "description": "Udemy test project",
+  "main": "index.js",
+  "engines":{
+    "node":"10.19.0",
+    "npm":"6.14.14"
+  },
+  "scripts": {
+    "start":"node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
